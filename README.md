@@ -28,7 +28,7 @@ Códigos Postales: Localización geográfica de las transacciones.
 ## Instalación
 Para ejecutar el proyecto localmente:
 1. Clona este repositorio: 
-git clone https://github.com/tuusuario/US-CANDY-DISTRIBUTOR.git
+git clone https://github.com/giogaona/proyecto-EDA-US-CANDY
 2. Instala las dependencias necesarias:
 pip install -r requirements.txt
 3. Asegúrate de tener acceso a los datos requeridos.
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 python analysis.py
 3. Abre el dashboard de Power BI y actualiza los datos.
 
-##Visualización en Power BI
+## Visualización en Power BI
 El dashboard en Power BI proporciona:
 - Rentabilidad de los productos por región.
 - Tendencias de ventas en el tiempo.
